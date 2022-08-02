@@ -1,5 +1,5 @@
 {
-    "name": "nadaft/contactme",
+    "name": "tallesairan/contactme",
     "description": "Laravel contact us form package to send email and save to database",
     "keywords": ["laravel", "contact", "contact form", "contact us", "form", "email", "nadaft", "contactme"],
     "type": "library",
